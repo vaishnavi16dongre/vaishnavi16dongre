@@ -1,12 +1,7 @@
 
-**vaishnavi16dongre/vaishnavi16dongre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently wor<h1 align="center">Hi 👋, I'm Vaishnavi Dongre</h1>
+<h1 align="center">Hi 👋, I'm Vaishnavi Dongre</h1>
 - 📫 How to reach me **vaishnavidongre15555@gmail.com**
 
-<img laign="right" alt="coding" width="400" scr="https://bgrafio.com/wp-content/uploads/2020/04/Animated-Explainer-Video-Bgrafio.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
