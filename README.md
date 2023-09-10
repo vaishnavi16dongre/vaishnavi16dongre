@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaishnavi Dongre</h1>
 - 👩‍💻I am an undergraduate student majoring in computer science and engineering.
-<img align="right" alt="coding" width="400" scr="https://i.pinimg.com/564x/ad/9f/46/ad9f469343a00877d8340e54879ae689.jpg">
+
 
 - 🌱 I’m currently learning data science
 
