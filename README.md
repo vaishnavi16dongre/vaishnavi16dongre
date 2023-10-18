@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vaishnavidongre15555@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
